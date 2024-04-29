@@ -1,0 +1,39 @@
+<html>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Desafio de CSS">
+  <meta name="author" content="Maria/1ch1g0">
+  <head>
+    <title> ícone de rede social em camadas</title>
+    <link rel="stylesheet" type="type/css">
+     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+</head>
+  </head>
+  <body>
+    <ul>
+      <li>
+        <a href="#">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span class="twitter" aria-hidden="true"></span>
+        </a>
+      </li>
+      <li>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span class="wattpad" aria-hidden="true"></span>
+      </li>
+      <li>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span class="instagram" aria-hidden="true"></span>
+      </li>
+    </ul>
+  </body>
+</html>
